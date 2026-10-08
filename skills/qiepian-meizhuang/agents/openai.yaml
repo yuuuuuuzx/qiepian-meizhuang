@@ -1,0 +1,3 @@
+display_name: "qiepian-meizhuang"
+short_description: "美妆直播SRT多稿件，三阶段互动确认后输出带时间戳切片方案（保留清单/对照表/60秒口播稿/误删审计）"
+default_prompt: "使用 $qiepian-meizhuang 为我的美妆带货直播 SRT 稿件做切片方案"
